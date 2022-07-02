@@ -5,7 +5,7 @@ Usually needs FFmpeg for works. Built for break Discord non-Nitro user upload li
 
 ## Usage
  - On Windows, just drag your file into `DRAG.bat`.
- - Or run this `python 8mb YOUR_VIDEO_NAME_OR_PATH_HOHO.mp4`
+ - Or run this `python 8mb.py YOUR_VIDEO_NAME_OR_PATH_HOHO.mp4`
 
 ## Example Outputs
 ```
